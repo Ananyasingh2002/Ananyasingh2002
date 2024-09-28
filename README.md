@@ -92,7 +92,7 @@ I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
     Portfolio/Website
     </h2>
   
-  `Personal Website` -> <a href="https://ananyasingh.co.in/" target="_blank">`Ananya Singh`</a>
+  `Personal Website` -> <a href="https://ananyasingh.info/" target="_blank">`Ananya Singh`</a>
   
   `Linktree` -> <a href="https://linktr.ee/singh.ananya4458" target="_blank">`Ananya Singh`</a>
   
