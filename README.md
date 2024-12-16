@@ -9,7 +9,7 @@
   
 <!--- portfolio launch image --->
   
-<a href="https://ananyasingh.co.in/">
+<a href="https://ananyasingh.info/">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -64,7 +64,7 @@
   
 <img width="130" height="150" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/40b5a631-b4cb-4c1a-947c-86b7da6b98b6" />
   
-I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
+I am a final-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
 
 ✔ Experienced Full Stack Developer.
 
