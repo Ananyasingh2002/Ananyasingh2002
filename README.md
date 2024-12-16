@@ -81,7 +81,7 @@ I am a final-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
     Education 
     </h2>
 
-  Fifth Semester - `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
+  Final-year - `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
   
   `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - D.A.V Public school, Brij Vihar
 
