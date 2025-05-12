@@ -1,10 +1,13 @@
 <!--- header image --->
 
 <div align="center">
-  
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/0646db2e-82ad-4606-af14-e03d911eaac1">
+
+  <p align="left">
+  <a href="https://ananyasingh.info" target="_blank">
+    <img alt="Portfolio" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/0646db2e-82ad-4606-af14-e03d911eaac1">
+  </a>
 </p>
+
 
   
 <!--- portfolio launch image --->
