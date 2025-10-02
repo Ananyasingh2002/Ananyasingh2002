@@ -3,7 +3,7 @@
 <div align="center">
 
   <p align="left">
-  <a href="https://ananyasingh2002.github.io/portfolio/" target="_blank">
+  <a href="https://ananyasingh.space/" target="_blank">
     <img alt="Portfolio" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/0646db2e-82ad-4606-af14-e03d911eaac1">
   </a>
 </p>
@@ -12,7 +12,7 @@
   
 <!--- portfolio launch image --->
   
-<a href="https://ananyasingh2002.github.io/portfolio/">
+<a href="https://ananyasingh.space/">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -97,7 +97,7 @@
     Portfolio/Website
     </h2>
   
-  `Personal Website` -> <a href="https://ananyasingh2002.github.io/portfolio/" target="_blank">`Ananya Singh`</a>
+  `Personal Website` -> <a href="https://ananyasingh.space/" target="_blank">`Ananya Singh`</a>
   
   `Linktree` -> <a href="https://linktr.ee/singh.ananya4458" target="_blank">`Ananya Singh`</a>
   
