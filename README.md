@@ -3,7 +3,7 @@
 <div align="center">
 
   <p align="left">
-  <a href="https://ananyasingh.info" target="_blank">
+  <a href="https://ananyasingh2002.github.io/portfolio/" target="_blank">
     <img alt="Portfolio" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/0646db2e-82ad-4606-af14-e03d911eaac1">
   </a>
 </p>
