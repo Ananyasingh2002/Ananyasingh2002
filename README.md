@@ -67,15 +67,17 @@
   
 <img width="130" height="150" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/40b5a631-b4cb-4c1a-947c-86b7da6b98b6" />
   
-I am a final-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to be University.
+💼 Currently, I’m working as a Software Developer at ICICI Lombard.
 
-✔ Experienced Full Stack Developer.
+🎓 I have completed my Bachelor’s degree in Computer Engineering from Bharati Vidyapeeth (Deemed to be University) in 2025.
 
-✔ Proficient in web development, Data Structures, and Algorithms (C++), and Python.
+✔ Experienced Full Stack Developer
 
-✔ Strive to contribute my expertise in Data Structures and Algorithms.
+✔ Proficient in Web Development, Data Structures & Algorithms (C++), and Python
 
-✔ Experienced in database management, version control, and software deployment.
+✔ Skilled in .NET and C#, with hands-on experience in building and integrating APIs
+
+✔ Experienced in Database Management, Version Control, and Software Deployment
   
   
   <!--- Education --->  
@@ -84,7 +86,7 @@ I am a final-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
     Education 
     </h2>
 
-  Final-year - `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
+  `Bachelor` in `Computer Engineering` - Bharati Vidyapeeth Deemed University, Pune
   
   `Secondary School` Certificate `(CBSE)` or `Matriculation` Examination - D.A.V Public school, Brij Vihar
 
@@ -95,7 +97,7 @@ I am a final-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
     Portfolio/Website
     </h2>
   
-  `Personal Website` -> <a href="https://ananyasingh.info/" target="_blank">`Ananya Singh`</a>
+  `Personal Website` -> <a href="https://ananyasingh2002.github.io/portfolio/" target="_blank">`Ananya Singh`</a>
   
   `Linktree` -> <a href="https://linktr.ee/singh.ananya4458" target="_blank">`Ananya Singh`</a>
   
