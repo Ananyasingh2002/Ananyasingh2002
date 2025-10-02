@@ -12,7 +12,7 @@
   
 <!--- portfolio launch image --->
   
-<a href="https://ananyasingh.info/">
+<a href="https://ananyasingh2002.github.io/portfolio/">
   
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -23,7 +23,7 @@
   
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
-<a href="https://twitter.com/ananyasingh445">
+<a href="https://x.com/ananyasingh2002">
     <img height="55" alt="Ananya singh | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
   
